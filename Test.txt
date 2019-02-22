@@ -1,1 +1,3 @@
 hello
+pussh project len remote responsitory : $ git remote add gitproject https://github.com/lequocanh54/Test.git
+					$ git push --set-upstream gitproject master
